@@ -7,11 +7,12 @@ export default function Hero() {
       {/* Background Image & Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/hero-banner.svg" 
+          src="/hero-banner.png" 
           alt="Commercial freight truck and logistics hub" 
           className="w-full h-full object-cover"
           loading="eager"
           decoding="async"
+          style={{ objectPosition: 'center center' }}
         />
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900 via-slate-900/80 to-slate-900/40" />
       </div>

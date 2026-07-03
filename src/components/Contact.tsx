@@ -112,7 +112,7 @@ export default function Contact() {
 
             <div className="bg-slate-50 p-8 rounded-sm border border-slate-100">
               <h4 className="text-sm font-bold text-slate-900 mb-2 uppercase tracking-wide">Proprietors</h4>
-              <p className="text-slate-600 font-medium">Divaakar.V &amp; Jayakumar.V</p>
+              <p className="text-slate-600 font-medium">Divaakar.V. &amp; Jayakumar.V.</p>
             </div>
           </div>
 

@@ -18,7 +18,7 @@ export default function About() {
           <div className="relative">
             <div className="absolute inset-0 bg-slate-900 rounded-sm transform translate-x-4 translate-y-4"></div>
             <img 
-              src="https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
+              src="/about-warehouse.png" 
               alt="Logistics Coordination Hub" 
               className="relative rounded-sm shadow-xl object-cover h-[500px] w-full"
             />
@@ -45,7 +45,7 @@ export default function About() {
             </p>
 
             <p className="text-slate-700 font-medium mb-8">
-              Led by proprietors <span className="text-slate-900">Divaakar.V</span> and <span className="text-slate-900">Jayakumar.V</span>, the company is built to serve businesses that need dependable freight coordination without the overhead of managing their own transport network.
+              Led by proprietors <span className="text-slate-900">Divaakar.V.</span> and <span className="text-slate-900">Jayakumar.V.</span>, the company is built to serve businesses that need dependable freight coordination without the overhead of managing their own transport network.
             </p>
 
             <ul className="grid sm:grid-cols-2 gap-y-4 gap-x-6">
