@@ -45,7 +45,7 @@ export default function About() {
             </p>
 
             <p className="text-slate-700 font-medium mb-8">
-              Led by proprietors <span className="text-slate-900">Divaakar V</span> and <span className="text-slate-900">Jayakumar V</span>, the company is built to serve businesses that need dependable freight coordination without the overhead of managing their own transport network.
+              Led by proprietors <span className="text-slate-900">Divaakar.V</span> and <span className="text-slate-900">Jayakumar.V</span>, the company is built to serve businesses that need dependable freight coordination without the overhead of managing their own transport network.
             </p>
 
             <ul className="grid sm:grid-cols-2 gap-y-4 gap-x-6">

@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Background Image & Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/hero-banner.png" 
+          src="/hero-banner.svg" 
           alt="Commercial freight truck and logistics hub" 
           className="w-full h-full object-cover"
           loading="eager"
