@@ -1,6 +1,6 @@
 {
   "name": "V-GO Movers",
-  "description": "Professional logistics coordination and freight management landing page",
+  "description": "Professional logistics coordination and freight management landing page for V-GO Movers Pvt. Ltd.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
