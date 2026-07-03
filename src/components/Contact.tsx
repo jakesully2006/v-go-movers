@@ -80,7 +80,8 @@ export default function Contact() {
               <div>
                 <h4 className="text-lg font-bold text-slate-900 mb-2">Phone Numbers</h4>
                 <p className="text-slate-600 font-medium">
-                  +91 89391 21010
+                  +91 89391 21010<br />
+                  +91 76039 67268
                 </p>
               </div>
             </div>
@@ -186,7 +187,7 @@ export default function Contact() {
                       value={form.phone}
                       onChange={handleChange('phone')}
                       className="w-full bg-slate-800 border border-slate-700 rounded-sm py-3 px-4 text-white placeholder:text-slate-500 focus:outline-none focus:border-orange-500 focus:ring-1 focus:ring-orange-500 transition-all"
-                      placeholder="+91 89391 21010"
+                      placeholder="Enter your phone number"
                     />
                   </div>
                   <div>

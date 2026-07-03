@@ -45,7 +45,7 @@ export default function Navbar() {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2 hover:text-orange-500 transition-colors">
               <Phone className="w-3.5 h-3.5" />
-              <span>+91 89391 21010</span>
+              <span>+91 89391 21010 / +91 76039 67268</span>
             </div>
             <div className="flex items-center gap-2 hover:text-orange-500 transition-colors">
               <Mail className="w-3.5 h-3.5" />

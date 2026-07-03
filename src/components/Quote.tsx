@@ -132,7 +132,7 @@ export default function Quote() {
                     value={form.phone}
                     onChange={handleChange('phone')}
                     className="w-full bg-slate-50 border border-slate-200 rounded-sm py-3 px-4 focus:outline-none focus:border-orange-500 focus:ring-1 focus:ring-orange-500 transition-all"
-                    placeholder="+91 89391 21010"
+                    placeholder="Enter your phone number"
                   />
                 </div>
                 <div>

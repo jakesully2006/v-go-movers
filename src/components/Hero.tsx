@@ -7,9 +7,11 @@ export default function Hero() {
       {/* Background Image & Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1501706362039-c6e80948c95d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2850&q=80" 
-          alt="Long-haul freight truck on the highway" 
+          src="/hero-banner.png" 
+          alt="Commercial freight truck and logistics hub" 
           className="w-full h-full object-cover"
+          loading="eager"
+          decoding="async"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900 via-slate-900/80 to-slate-900/40" />
       </div>
